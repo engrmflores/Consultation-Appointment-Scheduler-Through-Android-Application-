@@ -32,6 +32,30 @@ that could be attributed to any of the listed eye disorders.
 
 ![image](https://github.com/user-attachments/assets/ca981911-b44d-4a9b-855e-a72c491e5765)
 
+Actual Hardware Device:
+
+![image](https://github.com/user-attachments/assets/04c4e710-62bc-4984-9f87-819b6cef840f)
+
+Device used during testing:
+
+![image](https://github.com/user-attachments/assets/a9dbff3e-0693-4810-bd5d-fb4cefd454b0)
+
+This study created a system that utilizes the Optical
+Differential Diagnosis Process and images analysis to diagnose
+several eye diseases. Using a macro-lens camera, the
+researchers obtained more detailed images of patients' eyes for
+training and utilization of the system.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
